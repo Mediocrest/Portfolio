@@ -82,6 +82,7 @@ button.main-button:hover {
   display: inline-block;
   -webkit-transition: all .5s;
   transition: all .5s;
+  margin-bottom: 2rem;
 }
 
 .primary-button a:hover {
